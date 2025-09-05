@@ -16,7 +16,7 @@ Hey there! 👋 I'm Tomás, juggling life as a Junior Mobile Developer at Deloit
 - **[Project Name](#)**: Brief description of what it does.  
 -->
 ## 🏢 Professional Projects:  
-[LTA Courtside](https://apps.apple.com/gb/app/lta-courtside/id6741875070): The official LTA app for tickets and tournaments. — available exclusively in the UK.
+[LTA Courtside](https://apps.apple.com/gb/app/lta-courtside/id6741875070): The official LTA app for tickets and tournaments.
 <!--
 - **[App Name](#)**: Description of the app you developed.  
 - **[App Name](#)**: Another app and its key functionality or purpose.
